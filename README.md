@@ -43,7 +43,7 @@
   <h2>Projects</h2>
   <ul>
       <li><a href="https://github.com/Jdiva1234/chef-s_AI">Chef AI</a> - Chef's AI is a web app that uses AI to create personalized recipes based on your ingredients and dietary preferences, making cooking a unique experience.</li>
-    <li><a href="https://github.com/Jdiva1234/Heat-">HEAT</a> - University Project: An enhanced interface designed specifically for visually impaired users, leveraging adaptive technologies to optimize accessibility and usability in digital applications. This project integrates voice recognition and screen reader compatibility to ensure a seamless and inclusive user experience.</li>
+    <li><a href="https://github.com/Jdiva1234/Heat-">Haskel Educational Advancement Tool</a> - University Project: An enhanced interface designed specifically for visually impaired users, leveraging adaptive technologies to optimize accessibility and usability in digital applications. This project integrates voice recognition and screen reader compatibility to ensure a seamless and inclusive user experience.</li>
   </ul>
 </div>
 
